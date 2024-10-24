@@ -1,0 +1,34 @@
+#include<iostream>
+using namespace std;
+int main(){
+    
+    cout<<"everything is fine"<<endl;
+    cout<<endl;
+//initialising an array;
+  /* int array[]={1,2,3,4,5};
+    cout<<array[2]<<endl;
+    cout<<array[4]<<endl;*/
+
+    //example of arrray
+     /*int array[15]={2,3,5,6,7,8,9,12,13,12,11,13,13,14,15};
+     cout<<array[5]<<endl;
+     cout<<array[0]<<endl;*/
+
+//finding size of an array using size of operator
+     /*int marks[5]={24,25,26,27,25};
+     int size=5;
+     cout<< sizeof(marks) / sizeof(int) <<endl;*/
+
+     //initialising an array usimg loops
+
+     /*int marks[5]={12,24,34,36,56};
+     int size=5;
+     for(int i=0;i<size;i++){
+        cout<<marks[i]<<endl;
+     }*/
+
+ 
+
+    return 0;
+}
+ 
